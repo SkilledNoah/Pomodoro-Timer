@@ -1,4 +1,4 @@
 # Pomodoro-Timer
 
-https://github.com/SkilledNoah/Pomodoro-Timer/assets/106553532/c2166016-0e93-4b33-881f-af350a12461e
 
+![pomodoro](https://github.com/SkilledNoah/Pomodoro-Timer/assets/106553532/908e61df-ae37-4ce2-a28f-41d1b1fe97e6)
